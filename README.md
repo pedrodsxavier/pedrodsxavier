@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=6a329f&text=PEDRO%20XAVIER&textBg=false&reversal=false&fontSize=50&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineering%20·%20System%20Design%20·%20Software%20Architecture&descAlign=50&descAlignY=54&fontColor=ffffff&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=6a329f&text=PEDRO%20XAVIER&textBg=false&reversal=false&fontSize=50&fontAlign=50&fontAlignY=35&desc=Software%20Developer%20·%20System%20Design%20·%20Clean%20Architecture&descAlign=48&descAlignY=54&fontColor=ffffff&descSize=18"/>
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ### Overview
 
-Software Engineer with 5+ years of experience designing and delivering scalable backend systems in production environments.
+Software Developer with 5+ years of experience designing and delivering scalable backend systems in production environments.
 
-Focused on architecture, performance and long-term maintainability.  
+Focused on architecture, performance and long-term maintainability.
 Experienced in distributed systems, event-driven communication and resilient service design.
 
 ---
