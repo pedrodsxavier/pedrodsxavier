@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=00c9d4&text=PEDRO%20XAVIER&textBg=false&reversal=false&fontSize=52&fontAlign=50&fontAlignY=35&desc=Software%20Developer%20·%20System%20Design%20·%20Clean%20Architecture&descAlign=48&descAlignY=54&fontColor=ffffff&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=8a0e8a&text=PEDRO%20XAVIER&textBg=false&reversal=false&fontSize=52&fontAlign=50&fontAlignY=35&desc=Software%20Developer%20·%20System%20Design%20·%20Clean%20Architecture&descAlign=48&descAlignY=54&fontColor=ffffff&descSize=18"/>
 
 </div>
 
@@ -54,7 +54,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrodsxavier&label=PROFILE+VIEWS&color=00c9d4&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=pedrodsxavier&label=PROFILE+VIEWS&color=8a0e8a&style=for-the-badge"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
 <h3>🔗 Let's Connect</h3>
 
 [![Github Badge](https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=00c9d4&link=https://github.com/pedrohsxavier/)](https://github.com/pedrohsxavier/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=00c9d4&link=mailto:phsxlive@gmail.com)](mailto:phsxlive@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=8a0e8a&link=mailto:phsxlive@gmail.com)](mailto:phsxlive@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjMDBjOWQ0IiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNC43NzQgMjMuMiAwIDIyLjIyMiAwIi8+PC9zdmc+&link=https://www.linkedin.com/in/pedrodsxavier/)](https://www.linkedin.com/in/pedrodsxavier/)
 
 <div align="center">
